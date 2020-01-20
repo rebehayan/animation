@@ -1,0 +1,64 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Gallery</title>
+<style>
+	body { padding: 40px;}
+	* { padding: 0; margin: 0; list-style: none;}
+	li { float: left; width: 25%; padding: 5px; box-sizing: border-box;}
+	li div { position: relative;height: 300px; border: 1px solid #ccc; text-align: center; line-height: 300px;}
+	li div span { position: absolute; transition: all 0.5s; background: #7ab929;}
+	li div span:nth-child(1) { left:-1px; top: -1px; width: 0; height: 3px;}
+	li div:hover span:nth-child(1) { width: 100%; padding: 0 2px 0 0;}
+	li div span:nth-child(2) { right:-1px; top: 0; width: 3px; height:0; }
+	li div:hover span:nth-child(2) { width: 3px; height:100%; }
+	li div span:nth-child(3) { right: 0; bottom: -1px; width:0px; height: 3px; }
+	li div:hover span:nth-child(3) { width:100%;}
+	li div span:nth-child(4) { left: -1px; bottom:0; width: 3px; height:0px; }
+	li div:hover span:nth-child(4) {  height:100%; }
+</style>
+</head>
+<body>
+	
+	<ul>
+	<li>
+		<div>
+			<span></span><span></span><span></span><span></span>
+			갤러리1
+		</div>
+	</li>
+	<li>
+		<div>
+			<span></span><span></span><span></span><span></span>
+			갤러리2
+		</div>
+	</li>
+	<li>
+		<div>
+			<span></span><span></span><span></span><span></span>
+			갤러리3
+		</div>
+	</li>
+	<li>
+		<div>
+			<span></span><span></span><span></span><span></span>
+			갤러리4
+		</div>
+	</li>
+	<li>
+		<div>
+			<span></span><span></span><span></span><span></span>
+			갤러리5
+		</div>
+	</li>
+	<li>
+		<div>
+			<span></span><span></span><span></span><span></span>
+			갤러리6
+		</div>
+	</li>
+	</ul>
+
+</body>
+</html>

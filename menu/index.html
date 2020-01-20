@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Navigation</title>
+  <link rel="stylesheet" href="nav.css">
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+</head>
+<body>
+  <nav>
+    <div>
+      <a href="#a"><span>1</span></a>
+      <a href="#a"><span>2</span></a>
+      <a href="#a"><span>3</span></a>
+      <a href="#a" class="on"><span>4</span></a>
+      <a href="#a"><span>5</span></a>
+      <span></span>
+    </div>
+  </nav>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $('nav a').on('click', function(){
+        $(this).addClass('on');
+        $(this).siblings().removeAttr('class');
+      });
+    });
+  </script>
+</body>
+</html>
