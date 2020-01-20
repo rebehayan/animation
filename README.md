@@ -19,19 +19,20 @@
   * [영상을 제외한 결과보기 업로드 전](-) 
 - `border애니메이션` : 외곽선을 그리는 애니메이션
   * [영상보기](https://youtu.be/Ug2KdB7cms0)
-  * [결과페이지 보기](-) 
-- ` ` : 
-  * [영상보기](-)
-  * [결과페이지 보기](-) 
-- ` ` : 
-  * [영상보기](-)
-  * [결과페이지 보기](-) 
-- ` ` : 
-  * [영상보기](-)
-  * [결과페이지 보기](-) 
-- ` ` : 
-  * [영상보기](-)
-  * [결과페이지 보기](-) 
-  
-
+  * [결과페이지 보기](https://rebehayan.github.io/animation/line/index.html) 
+- `레이어팝업 열고 닫기` : CSS3의 Target만으로 제어하여 팝업열기/닫기 표현
+  * [영상보기](https://youtu.be/AqNFShHvii4)
+  * [결과페이지 보기](https://rebehayan.github.io/animation/popup/) 
+- `체크박스 디자인` : 순수 CSS를 활용한 체크박스 선택유무 애니메이션 표현
+  * [영상보기](https://youtu.be/1wJDvNTsdXo)
+  * [결과페이지 보기](https://rebehayan.github.io/animation/input/) 
+- `토글 버튼` : 체크박스와 CSS를 활용한 토글버튼 애니메이션
+  * [영상보기](https://youtu.be/rZUhar4s5w0)
+  * [결과페이지 보기](https://rebehayan.github.io/animation/input2/) 
+- `햄버거메뉴 애니메이션` : CSS3와 jQuery를 활용한 햄버거 메뉴 애니메이션
+  * [영상보기](https://youtu.be/Abzfqxrr0jc)
+  * [결과페이지 보기](https://rebehayan.github.io/animation/menu3/)
+- `막대 그래프` : CSS3를 활용한 막대그래프 애니메이션
+  * [영상보기](https://youtu.be/k7I1K68IrEo)
+  * [결과페이지 보기](https://rebehayan.github.io/animation/graph/) 
 ***
