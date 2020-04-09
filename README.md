@@ -11,4 +11,6 @@
 10. `토글 버튼` : 체크박스와 CSS를 활용한 토글버튼 애니메이션 [영상보기](https://youtu.be/rZUhar4s5w0) | [결과페이지 보기](https://rebehayan.github.io/animation/input2/) 
 11. `햄버거메뉴 애니메이션` : CSS3와 jQuery를 활용한 햄버거 메뉴 애니메이션 [영상보기](https://youtu.be/Abzfqxrr0jc) | [결과페이지 보기](https://rebehayan.github.io/animation/menu3/)
 12. `막대 그래프` : CSS3를 활용한 막대그래프 애니메이션 [영상보기](https://youtu.be/k7I1K68IrEo) | [결과페이지 보기](https://rebehayan.github.io/animation/graph/) 
+13. `작고 커지는 메뉴` : 마우스를 올리면 올린 메뉴는 커지고 나머지는 나머지 메뉴는 작아짐  [영상보기](https://youtu.be/JbOEEtwy61A) | [결과페이지 보기](https://rebehayan.github.io/animation/menu4/) 
+
 ***
